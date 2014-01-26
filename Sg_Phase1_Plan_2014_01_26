@@ -1,6 +1,7 @@
 Phase 1 Plan
 1. Create a CRUD screen for SG data (Java/web)
 2. Storage (MySQL), create a tool to export to any database SQLite, SQL Server, Oracle
+2.1 Save all data in a csv, excel file
 3. Online Flash/Flex Game
 4. Copy the SanGuo2 - BaWangDaLu.
 5. Complete in 2014
